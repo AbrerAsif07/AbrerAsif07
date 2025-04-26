@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Third-Year CSE Student at SRM Institute of Science and Technology, Chennai.<br>💻 Passionate about AI, Machine Learning, and Web Development <br>🔍 Keen Interests in: AI-driven applications, Data Science, and Full-Stack Development.<br>🏆 Hackathon Enthusiast and Active Learner - always exploring the latest in tech and open to new challenges and collaborations!
+👨‍🎓  CSE Student at SRM Institute of Science and Technology, Chennai.<br>💻 Passionate about AI, Data Science, and Web Development <br>🔍 Keen Interests in: AI-driven applications, Data Science, and Full-Stack Development.<br>🏆 Hackathon Enthusiast, Open Source Contributor and Active Learner - always exploring the latest in tech and open to new challenges and collaborations!
 
 <div align="center">
   
